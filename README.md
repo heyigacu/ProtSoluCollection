@@ -46,7 +46,7 @@ bash ./tools/Predict.sh
 python parse_result.py
 ```
 
-### 3. Protein_Sol (https://protein-sol.manchester.ac.uk/software)
+## 3. Protein_Sol (https://protein-sol.manchester.ac.uk/software)
 
 ```
 bash multiple_prediction_wrapper_export.sh input.fasta
